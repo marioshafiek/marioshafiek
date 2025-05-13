@@ -68,6 +68,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioshafiek&" alt="marioshafiek" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=marioshafiek&label=Profile%20views&color=0e75b6&style=flat" alt="marioshafiek" />
-</p>
